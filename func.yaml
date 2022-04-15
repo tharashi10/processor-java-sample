@@ -1,0 +1,8 @@
+schema_version: 20180708
+name: fn-sample-processor
+version: 0.0.1
+runtime: docker
+memory: 128
+timeout: 120
+config:
+  trgStreamId: ocid1.stream.***
